@@ -1,3 +1,7 @@
+# First Install the requirements
+# pip install -r requirements.txt
+ 
+
 import cv2
 import numpy as np
 import poseEstimationModule as pm
